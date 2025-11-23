@@ -26,3 +26,11 @@ jobs:
         # ✅ Step 4: Example test step — here it just prints the Python version
 
         # You can replace this with 'pytest' or your test command later.
+
+      -  name: Debug information
+         run: |
+              echo "Current directory: $(pwd)"
+              echo "Directory contents:"
+              ls -la
+              echo "Node version: $(node --version)"  # if applicable
+              echo "Python version: $(python --version)"  # if applicable
