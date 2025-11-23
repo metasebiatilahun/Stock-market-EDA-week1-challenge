@@ -1,5 +1,3 @@
-# Stock-market-EDA-week1-challenge # Project Title
-Demonstration on Git, Python environment setup, and CI/CD.
 # 📈 Stock Market News Sentiment Analysis & Price Correlation
 
 **Week 1 – EDA & NLP Project**
